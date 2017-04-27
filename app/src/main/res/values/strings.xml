@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">Review</string>
+    <string name="app_name">RD_News</string>
+    <string name="placeholdertext">
+        This is where the information about the breaking news would go.
+        I just needed a placeholder for this cardview for now.
+    </string>
+    <string name="imageview_description">Image for the cardview</string>
 </resources>
